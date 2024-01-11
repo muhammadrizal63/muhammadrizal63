@@ -1,4 +1,4 @@
-![logo](https://github.com/muhammadrizal63/muhammad-rizal/blob/519ee4c72b909130629a5920edb9dc76c0721c03/github-header-image.png)
+![logo](https://github.com/muhammadrizal63/muhammad-rizal/blob/10cc4bcfbab055de0ac99f5199dc4eb5dcb3a990/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muhammad Rizal</h1>
 <h3 align="center">A junior Software Engineer from Indonesia, still learning for something big</h3>
 
